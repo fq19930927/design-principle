@@ -1,4 +1,4 @@
-package com.fuqiang.demeter;
+package com.fuqiang.design.demeter;
 
 /**
  * @author fuqiang

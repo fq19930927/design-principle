@@ -1,4 +1,4 @@
-package com.fuqiang.openclose;
+package com.fuqiang.design.openclose;
 
 import java.math.BigDecimal;
 

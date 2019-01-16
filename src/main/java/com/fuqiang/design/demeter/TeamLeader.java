@@ -1,4 +1,4 @@
-package com.fuqiang.demeter;
+package com.fuqiang.design.demeter;
 
 import java.util.ArrayList;
 import java.util.List;
