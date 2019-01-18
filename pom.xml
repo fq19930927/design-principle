@@ -477,17 +477,6 @@
             <version>3.5-FINAL</version>
         </dependency>
 
-        <dependency>
-            <groupId>hyjf-emayclient</groupId>
-            <artifactId>hyjf-emayclient</artifactId>
-            <version>1.0</version>
-        </dependency>
-
-        <dependency>
-            <groupId>chinapnr</groupId>
-            <artifactId>chinapnr</artifactId>
-            <version>1.0</version>
-        </dependency>
         <!-- PDF下载 -->
         <dependency>
             <groupId>org.xhtmlrenderer</groupId>
@@ -527,16 +516,6 @@
             <groupId>commons-logging</groupId>
             <artifactId>commons-logging</artifactId>
             <version>1.1.3</version>
-        </dependency>
-        <dependency>
-            <groupId>fadada-api-sdk</groupId>
-            <artifactId>fadada-api-sdk</artifactId>
-            <version>1.1</version>
-        </dependency>
-        <dependency>
-            <groupId>SensorsAnalyticsSDK</groupId>
-            <artifactId>SensorsAnalyticsSDK</artifactId>
-            <version>3.1.6-standalone</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.apache.pdfbox/pdfbox -->
         <dependency>

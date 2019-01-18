@@ -5,8 +5,14 @@ package com.fuqiang.pattern.creational.singleton;
  * @version T, v0.1 2019/1/17 23:09
  */
 public class T implements Runnable {
-    public void run() {
+
+    /*public void run() {
         SingleTon singleTon = SingleTon.getSingleTon();
         System.out.println(Thread.currentThread().getName() + "..." + singleTon);
+    }*/
+
+    public void run() {
+        SingleTon2 singleTon2 = SingleTon2.getSingleTon();
+        System.out.println(Thread.currentThread().getName() + "..." + singleTon2);
     }
 }

@@ -7,9 +7,12 @@ package com.fuqiang.pattern.creational.singleton;
 public class Test {
 
     public static void main(String[] args) {
-        Thread thread1 = new Thread(new T());
+     /*   Thread thread1 = new Thread(new T());
         Thread thread2 = new Thread(new T());
         thread1.start();
-        thread2.start();
+        thread2.start();*/
+
+        EnumInstance instance = EnumInstance.getInstance();
+        instance.test();
     }
 }
